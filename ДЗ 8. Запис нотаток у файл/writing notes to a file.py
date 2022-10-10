@@ -147,12 +147,12 @@ def func_save(note_jornal_new: list, mode:str)-> list:
     :param mode: режим в котором производиться запись в файл
     :return: очищеный журнал заметок
     """
-    for i in note_jornal_new:
-        i = "\n" + i
-        with open ('test_file.txt', mode = mode) as fp:
+    with open('test_file.txt', mode=mode) as fp:
+        for i in note_jornal_new:
+            i = "\n" + i
             fp.writelines(i)
-    note_journal = []
-    return note_journal
+        note_journal = []
+        return note_journal
 
 
 def func_load(new_file) -> list:
