@@ -1,0 +1,95 @@
+{
+    "people": [
+        {
+            "first name": "Sofiya",
+            "last name": "Boyko",
+            "gender" : "women",
+            "category": "2",
+            "rating":"B"
+        },
+        {
+            "first name": "Yosyp" ,
+            "last name": "Zelenko",
+            "gender" : "men",
+            "category": "3",
+            "rating": "A"
+        },
+        {
+            "first name": "Sofiya",
+            "last name": "Sobol",
+            "gender" : "women",
+            "category": "2",
+            "rating":"B"
+        },
+       {
+            "first name": "Mykyta",
+            "last name": "Boyko",
+            "gender" : "men",
+            "category": "1",
+            "rating": "C"
+       },
+       {
+            "first name": "Polina",
+            "last name": "Shwetz",
+            "gender" : "women",
+            "category": "3",
+            "rating": "A"
+       },
+       {
+            "first name": "Ruvim",
+            "last name": "Sokolov",
+            "gender" : "men",
+            "category": "2",
+            "rating": "B"
+       },
+       {
+            "first name":"Maria",
+            "last name": "Stasiuk",
+            "gender" : "women",
+            "category": "1",
+            "rating": "C"
+       },
+       {
+            "first name": "Davyd",
+            "last name": "Zelenko",
+            "gender" : "men",
+            "category": "3",
+            "rating": "A"
+       },
+       {
+            "first name": "Illya",
+            "last name": "Borisov",
+            "gender" : "men",
+            "category": "2",
+            "rating": "B"
+       },
+       {
+            "first name": "Yevdokiya",
+            "last name": "Oliynyk",
+            "gender" : "women",
+            "category": "1",
+            "rating": "C"
+       },
+       {
+            "first name": "Stepan",
+            "last name": "Chayka",
+            "gender" : "men",
+            "category": "1",
+            "rating": "B"
+       },
+      {
+            "first name": "Stepan",
+            "last name": "Oliynyk",
+            "gender" : "men",
+            "category": "1",
+            "rating": "B"
+      },
+      {
+            "first name": "Davyd",
+            "last name": "Borisov",
+            "gender" : "men",
+            "category": "1",
+            "rating": "B"
+      }
+    ]
+}
