@@ -1,0 +1,129 @@
+{
+  "TV" : [
+        {
+          "Name": "Samsung UE32T5300AUXUA",
+          "Brand": "SAMSUNG",
+          "Diagonal, inches": "32",
+          "Smart_tv": "YES",
+          "Price" : "13000",
+          "Year of admission" : "2021",
+          "Guarantee" : "12",
+          "Quantity" : "25"
+        },
+        {
+          "Name": "SAMSUNG QE55Q60AAUXUA",
+          "Brand": "SAMSUNG",
+          "Diagonal, inches": "55",
+          "Smart_tv": "YES",
+          "Price" : "29200",
+          "Year of admission" : "2022",
+          "Guarantee" : "18",
+          "Quantity" : "38"
+        },
+        {
+          "Name": "KIVI 24H500LB",
+          "Brand": "KIVI",
+          "Diagonal, inches": "24",
+          "Smart_tv": "NO",
+          "Price" : "4999",
+          "Year of admission" : "2021",
+          "Guarantee" : "12",
+          "Quantity" : "100"
+        },
+        {
+          "Name": "LG SIGNATURE 8K OLED OLED88ZX9LA",
+          "Brand": "LG",
+          "Diagonal, inches": "88",
+          "Smart_tv": "YES",
+          "Price" : "999999",
+          "Year of admission" : "2022",
+          "Guarantee" : "12",
+          "Quantity" : "0"
+        }
+
+  ],
+  "Refrigerators" : [
+      {
+        "Name": "GORENJE NRK 6201 ES4 (HZF3568SCD)",
+        "Brand": "GORENJE",
+        "Height cm": "200",
+        "No frost": "YES",
+        "Price" : "20000",
+        "Year of admission" : "2021",
+        "Guarantee" : "24",
+        "Quantity" : "10"
+      },
+      {
+        "Name": "WHIRLPOOL W7 911O OX",
+        "Brand": "WHIRLPOOL",
+        "Height cm": "201",
+        "No frost": "YES",
+        "Price" : "21500",
+        "Year of admission" : "2022",
+        "Guarantee" : "18",
+        "Quantity" : "12"
+      },
+      {
+        "Name": "ARDESTO DFM-50W",
+        "Brand": "ARDESTO",
+        "Height cm": "47",
+        "No frost": "NO",
+        "Price" : "5400",
+        "Year of admission" : "2021",
+        "Guarantee" : "12",
+        "Quantity" : "50"
+      },
+      {
+        "Name": "HITACHI R-WB720VUC0GBK",
+        "Brand": "HITACHI",
+        "Height cm": "184",
+        "No frost": "YES",
+        "Price" : "80000",
+        "Year of admission" : "2022",
+        "Guarantee" : "12",
+        "Quantity" : "0"
+      }
+  ],
+  "WashingMachines" : [
+      {
+        "Name": "WHIRLPOOL WRBSS 6215 W UA",
+        "Brand": "WHIRLPOOL",
+        "Spin speed": "1200",
+        "Load type": "HORIZONTAL",
+        "Price" : "12600",
+        "Year of admission" : "2021",
+        "Guarantee" : "12",
+        "Quantity" : "0"
+      },
+      {
+        "Name": "ELECTROLUX EW6S226SUI",
+        "Brand": "ELECTROLUX",
+        "Spin speed": "1200",
+        "Load type": "HORIZONTAL",
+        "Price" : "15800",
+        "Year of admission" : "2022",
+        "Guarantee" : "12",
+        "Quantity" : "6"
+      },
+      {
+        "Name": "ELECTROLUX EW6T4062U",
+        "Brand": "ELECTROLUX",
+        "Spin speed": "1000",
+        "Load type": "VERTIKAL",
+        "Price" : "19400",
+        "Year of admission" : "2021",
+        "Guarantee" : "12",
+        "Quantity" : "1"
+      },
+      {
+        "Name": "BEKO WUE8616XBCW",
+        "Brand": "BEKO",
+        "Spin speed": "1400",
+        "Load type": "HORIZONTAL",
+        "Price" : "16500",
+        "Year of admission" : "2022",
+        "Guarantee" : "12",
+        "Quantity" : "9"
+      }
+  ]
+}
